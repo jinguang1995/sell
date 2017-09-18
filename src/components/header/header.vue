@@ -38,7 +38,7 @@
                     </div>
                     <div class="title">
                         <div class="line"></div>
-                        <div class="text">商家公告</div>
+                        <div class="text">优惠信息</div>
                         <div class="line"></div>
                     </div>
                     <ul class="supports">
@@ -154,7 +154,6 @@
                     .text
                         line-height: 12px
                         font-size: 10px
-
             .support-count
                 position: absolute
                 right: 12px
