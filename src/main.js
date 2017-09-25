@@ -23,5 +23,4 @@ router.map({
         component: seller
     }
 });
-router.go('/goods');
 router.start(app, '#app');
